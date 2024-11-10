@@ -1,0 +1,14 @@
+
+tensorflow==1.14.0
+keras==2.3.1
+numpy
+matplotlib
+sklearn
+scikit-learn==0.22.1
+protobuf==3.16.0
+imutils
+msvc-runtime
+pandas
+opencv-python
+
+
