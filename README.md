@@ -1,3 +1,3 @@
 # ANN-approaches-for-Lung-Cancer-Identification
 
-Lung cancer detection is vital for improving survival rates. Our project automates this process using CT scans and machine learning models like SVM, KNN, K-Means, and CNN, with CNN providing the highest accuracy. This approach reduces human error and enhances diagnostic efficiency.
+This project focuses on automated lung cancer detection using CT scan images. Leveraging image processing techniques and an artificial neural network (ANN), it performs pre-processing, segmentation, feature extraction, and classification. Machine learning models like SVM, K- Means, KNN, and CNN were tested, with CNN achieving the highest accuracy. The system aims to enhance diagnosis accuracy and reduce human error in early lung cancer detection.
